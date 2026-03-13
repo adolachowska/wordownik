@@ -1,5 +1,6 @@
 
-**Wordownik** is a lightweight Python desktop application built with **Tkinter**. It was created primarily as an experimental project to explore GUI (Graphical User Interface) development in Python. The app allows you to manipulate and analyze text quickly without the need for a heavy, full-fledged text editing program.
+## **Wordownik** 
+is a lightweight Python desktop application built with **Tkinter**. It was created primarily as an experimental project to explore GUI (Graphical User Interface) development in Python. The app allows you to manipulate and analyze text quickly without the need for a heavy, full-fledged text editing program.
 
 ## Features
 
